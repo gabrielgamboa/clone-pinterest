@@ -73,7 +73,16 @@
     height: 350px;
     background-color: $red;
     border-radius: 10px;
+
+    img {
+        border-radius: 10px;
+    }
+
 }
+
+
+
+
 
 .item:not(:first-child) {
     margin-top: 10px;

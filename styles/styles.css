@@ -238,6 +238,10 @@ header nav .buttons .signup {
   border-radius: 10px;
 }
 
+.item img {
+  border-radius: 10px;
+}
+
 .item:not(:first-child) {
   margin-top: 10px;
 }

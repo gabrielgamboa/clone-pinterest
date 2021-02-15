@@ -1,3 +1,5 @@
+//TO-DO: colocar imagens e fazer animação sair de baixo pra cima sempre 
+
 const grids = document.querySelectorAll('.grid');
 const headings = document.querySelectorAll('.heading .wrapper .text');
 
